@@ -1,0 +1,300 @@
+
+* {
+
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+
+	height: 100vh;
+}
+
+.navbar-style {
+
+    box-shadow: 0 5px 10px green;	
+	text-transform: uppercase;
+	
+}
+
+.logo {
+
+	height: 70px;
+	padding: 2px;
+	padding-top: 10px;
+}
+
+.icon-bar {
+
+	background: darkgreen;
+}
+
+li a {
+
+	color: darkgreen;
+}
+
+li a:hover {
+
+	color: darkorange;
+	font-size:20px;
+}
+
+.big-text {
+
+	font-size: 52px;
+	margin: 20px 0;
+	color: green;
+}
+
+a.btn {
+
+	margin: 30px 10px;
+	width: 150px;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+a.btn-first {
+
+	background-color: green;
+	color: #fff;
+}
+
+a.btn-second {
+
+    background: green;
+    border: 2px solid green;
+    color: white;	
+}
+
+a.btn-three {
+
+	background-color: darkgreen;
+    border: 2px solid green;
+    color: white;
+}
+
+a.btn-three:hover {
+
+	background-color: green;
+    border: 1px solid orange;
+    color: black;
+}
+
+a.btn-second:hover {
+
+    background: green;
+	border: none;
+	color: #fff;
+	box-shadow: 5px 5px 10px #999;
+	transition: 0.3s;
+}
+
+a.btn-first:hover {
+
+	background: transparent;
+    border: 1px solid green;
+    color: #333;
+}
+
+.banner-info, .banner-image {
+
+	margin: 30px 0;
+}
+
+
+.mb-3 {
+
+	color: #9ACD32;
+}
+.mb-2 {
+
+	color:#9ACD32;
+}
+
+.text-center {
+
+	background-color:black;
+	color:#D3D3D3;
+}
+
+.me-5 {
+
+    color:#F7CAC9;	
+}
+
+.col-md-3 {
+
+	text-decoration: none;
+}
+
+.text-write {
+
+    color: green;
+}
+
+.mysolary-text {
+
+	color: darkorange;
+}
+
+.text-reset {
+
+	color: #B8860B;
+}
+
+.text-reset:hover {
+
+	text-decoration:none;
+	color: yellow;
+}
+
+.navbar-right {
+
+    font-size: 19px;
+	padding-top: 10px;
+}
+
+.fa {
+
+  padding: 30px;
+  padding-left:1px;
+  font-size: 45px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  float:left;
+}
+
+.fa:hover {
+
+  text-decoration: none;
+}
+
+.fa-facebook {
+
+	color:blue;
+}
+
+.fa-instagram {
+
+	color:#d6249f;
+}
+
+.fa-linkedin {
+
+	color:#0e76a8;
+}
+
+.fa-instagram:hover {
+
+	color:darkorange;
+}
+
+.fa-facebook:hover {
+
+	color:gray;
+}
+
+.fa-linkedin:hover {
+
+	color:green;
+}
+
+.phone {
+
+	color:#001f3f;
+}
+
+.email {
+
+	color: #001f3f;
+}
+
+.phone-link:hover {
+
+	color:#001f3f;
+	text-decoration:none;
+}
+
+.contact-div {
+
+    width:400px;
+	padding-left:20px;
+}
+
+.adress-firmy {
+
+	font-size: 50px;
+	color: #001f3f;
+}
+
+.adress-adress {
+
+    font-size: 30px;
+	color: #001f3f;
+}
+
+.kod-pocztowy {
+
+	font-size: 30px;
+	color: #001f3f;
+}
+
+.about-us {
+	color:#001f3f;
+
+}
+
+.image-one {
+	
+	height: 240px;
+	border-radius: 50px;
+
+}
+
+.image-two {
+	
+	height: 200px;
+	border-radius: 50px;
+
+}
+
+.image-three {
+	
+	height: 200px;
+	border-radius: 50px;
+
+}
+
+.instalacje {
+
+	text-align: center;
+	height: 50px;
+    color: black;
+    text-transform: uppercase;
+    font-style: italic;
+
+}
+
+.twenty {
+
+   padding-left: 10px;
+   font-size: 30px;
+   color: #FF8C00;
+}
+
+.image-holder {
+
+	text-align: center;
+	padding-top: 10px;
+
+}
+
+.rem {
+
+    background-color: black;
+    border: 8px solid transparent;
+
+}
